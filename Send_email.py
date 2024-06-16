@@ -1,8 +1,8 @@
 import smtplib, ssl 
 from getpass import getpass
-import mysqldb
+import _mysql_connector
 
-mydb = mysql-connector-connect(
+mydb = _mysql_connector.connect(
     host = "local host" 
     user = "root"
     password = "Mahs@1374"

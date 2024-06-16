@@ -1,6 +1,6 @@
 import smtplib, ssl 
 from getpass import getpass
-import mysql-connector 
+import mysqldb
 
 mydb = mysql-connector-connect(
     host = "local host" 
